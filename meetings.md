@@ -15,9 +15,3 @@ The next general meeting will be held on 4/12.
 
 ## Meeting Minutes
 Minutes are available [here](https://github.com/iwwaustin/documents/blob/master/minutes).
-
----
-- [Home](index.md)
-- [About](about.md)
-- [Documents](documents.md)
-- [Meeting Info](meetings.md)

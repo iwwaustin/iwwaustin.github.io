@@ -20,9 +20,3 @@ aspernatur. Cum libero doloribus, iste eos ab ratione ea vero harum sequi maxime
 [Join Austin IWW on Discord!](https://discord.gg)
 
 [Email us!](mailto:validemail@iwwaustin.com)
-
----
-- [Home](index.md)
-- [About](about.md)
-- [Documents](documents.md)
-- [Meeting Info](meetings.md)

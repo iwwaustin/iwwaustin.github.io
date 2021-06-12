@@ -19,4 +19,4 @@ aspernatur. Cum libero doloribus, iste eos ab ratione ea vero harum sequi maxime
 ## Contact
 [Join Austin IWW on Discord!](https://discord.gg)
 
-[Email us!](mailto:validemail@iwwaustin.com)
+[Email us!](mailto:organize@iwwaustin.org)

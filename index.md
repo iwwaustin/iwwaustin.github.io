@@ -1,7 +1,7 @@
 ---
-title: IWW Austin
+title: 
 permalink: /
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ducimus quos ex pariatur dolore vitae atque 
-aspernatur. Cum libero doloribus, iste eos ab ratione ea vero harum sequi maxime facere!
+IWW Austin is the Austin, TX branch of the Industrial Workers of the World solidarity union. We strive to assist, 
+mentor, and organize workers across workplaces and industries in the One Big Union. 

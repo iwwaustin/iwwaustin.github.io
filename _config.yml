@@ -2,7 +2,7 @@ title: IWW Austin
 description: > # this means to ignore newlines until "show_excerpts:"
   IWW Austin is the Austin, TX branch of the Industrial Workers of the World solidarity union.  We strive to assist,
   mentor, and organize workers across workplaces and industries in the One Big Union.
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 header_pages:
   - about.md
@@ -47,11 +47,6 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
 
 # Build settings
 theme: minima

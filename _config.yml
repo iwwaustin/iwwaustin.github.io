@@ -1,8 +1,7 @@
 title: IWW Austin
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  IWW Austin is the Austin, TX branch of the Industrial Workers of the World solidarity union.  We strive to assist,
+  mentor, and organize workers across workplaces and industries in the One Big Union.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 header_pages:

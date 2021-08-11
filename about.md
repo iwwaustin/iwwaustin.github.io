@@ -22,7 +22,7 @@ We help workers organize their workplaces through peer mentorship and mutual aid
     committee.
     - The **Social Media Committee** creates content and coverage on [IG](https://www.instagram.com/iww.atx), 
     [twitter](https://twitter.com/iwwatx), and [iwwaustin.org](https://iwwaustin.org)
-    - The **In-persion Meeting Committee** evaluates requirements, feasibility, and available locations for in-person 
+    - The **In-person Meeting Committee** evaluates requirements, feasibility, and available locations for in-person 
     meetings as COVID winds down.
 - How do I join a committee?
     - Any member in good standing may join a committee; ask during a business meeting or in the discord.

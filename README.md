@@ -12,6 +12,7 @@ categories:
     - Theory
     - Critique
     - News
+    - Resources
 ---
 ```
 * Write the post below the header using [Markdown formatting](https://www.markdownguide.org/basic-syntax#headings).

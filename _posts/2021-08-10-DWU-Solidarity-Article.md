@@ -67,11 +67,3 @@ social media accounts:
 <a href="https://www.instagram.com/doughnutworkersunited/">instagram.com/doughnutworkersunited</a>
 
 </div>
-
-<div style="text-align:center">
-
-<strong>Want to organize at your workplace? <br>
-
-<a href="mailto:organize@iwwaustin.org">Contact Austin IWW here! </a></strong>
-
-</div>

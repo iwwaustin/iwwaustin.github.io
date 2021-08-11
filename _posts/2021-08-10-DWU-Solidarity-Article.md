@@ -58,20 +58,20 @@ The DWU organizers have set up a GoFundMe page to support the striking workers (
 help support Doughnut Workers United as they continue to fight Voodoo’s unacceptable labor practices, check out DWU’s 
 social media accounts:
 
-<div style="text-align:right”>
+<div style="text-align:center">
 
-<a href=“https://www.gofundme.com/f/dwu-strike-and-hardship-fund-june-2021”>DWU Strike and Hardship Fund</a>
+<a href="https://www.gofundme.com/f/dwu-strike-and-hardship-fund-june-2021">DWU Strike and Hardship Fund</a> <br>
 
-<a href=“https://www.facebook.com/doughnutworkersunited”>facebook.com/doughnutworkersunited</a>
+<a href="https://www.facebook.com/doughnutworkersunited">facebook.com/doughnutworkersunited</a> <br>
 
-<a href=“https://www.instagram.com/doughnutworkersunited/“>instagram.com/doughnutworkersunited</a>
+<a href="https://www.instagram.com/doughnutworkersunited/">instagram.com/doughnutworkersunited</a>
 
 </div>
 
-<div style=“text-align:center”>
+<div style="text-align:center">
 
-<strong>Want to organize at your workplace?
+<strong>Want to organize at your workplace? <br>
 
-<a href=“mailto:organize@iwwaustin.org”>Contact Austin IWW here! </a></strong>
+<a href="mailto:organize@iwwaustin.org">Contact Austin IWW here! </a></strong>
 
 </div>

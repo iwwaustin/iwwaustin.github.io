@@ -5,3 +5,27 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.landing-box{
+  display: flex;
+  flex-direction: column;
+}
+
+.brow{
+  padding-top: 3rem;
+  width: 30rem;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+}
+
+.button{
+  background-color: black;
+  color: #d72036;
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-weight: 900;
+  font-size: 2rem;
+
+  
+}

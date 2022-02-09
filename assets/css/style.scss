@@ -1,21 +1,33 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
+/**
+ * # Only the main Sass file needs front matter (the dashes are enough)
+ */
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+  
+.landing-img{
+  max-width: 30%;
+  text-align: center;
+}
+
+@media (max-width:580px){
+  .landing-img{
+    max-width: 70%;
+    max-height: auto;
+  } 
+}
+
 @media (max-width:767px){
   .landing-img{
-    max-width: 40%;
+    max-width: 30%;
     max-height: auto;
   } 
 }
 
 @media (min-width:768px){
   .landing-img{
-    max-width: 60%;
+    max-width: 30%;
     max-height: auto;
   } 
 }
@@ -23,7 +35,7 @@
 
 @media (min-width:1200px){
   .landing-img{
-    max-width: 80%;
+    max-width: 30%;
     max-height: auto;
   } 
 }
@@ -31,9 +43,24 @@
 .landing-box{
   display: flex;
   flex-direction: column;
-  width: 80rem;
+  width: 100%;
   align-self: center;
   padding-bottom: 5rem;
+  justify-content: center;
+}
+
+@media (max-width:767px){
+  .landing-box{
+    margin-top: 5%;
+    width: 100%;
+  } 
+}
+
+@media (min-width:768px){
+  .landing-box{
+    margin-top: 5%;
+    width: 100%;
+  } 
 }
 
 .brow{
@@ -44,13 +71,25 @@
   align-self: center;
 }
 
+@media (max-width: 480px) {
+  .brow{
+    flex-direction: column;
+    width: 10rem;
+  }
+}
+
 .button{
   background-color: black;
-  color: #d72036;
+  color: #d72036 !important;
   border-radius: 5px;
   padding: 0.5rem;
   font-weight: 900;
   font-size: 2rem;
+}
 
-  
+@media (max-width: 480px) {
+  .button{
+    font-size: 1rem;
+    margin-top: 10px;   
+  }
 }

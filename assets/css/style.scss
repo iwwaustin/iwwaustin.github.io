@@ -6,9 +6,34 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+@media (max-width:767px){
+  .landing-img{
+    max-width: 40%;
+    max-height: auto;
+  } 
+}
+
+@media (min-width:768px){
+  .landing-img{
+    max-width: 60%;
+    max-height: auto;
+  } 
+}
+
+
+@media (min-width:1200px){
+  .landing-img{
+    max-width: 80%;
+    max-height: auto;
+  } 
+}
+
 .landing-box{
   display: flex;
   flex-direction: column;
+  width: 80rem;
+  align-self: center;
+  padding-bottom: 5rem;
 }
 
 .brow{

@@ -1,5 +1,2 @@
 Gemfile.lock
 _site
-
-.bundle/
-vendor/

@@ -47,73 +47,23 @@
     padding-bottom: 100px;
   }
 }
-
 .landing-img{
-  max-width: 70%;
-  text-align: center;
-}
-
-@media (max-width:580px){
-  .landing-img{
-    max-width: 70%;
-    max-height: auto;
-  } 
-}
-
-@media (max-width:767px){
-  .landing-img{
-    max-width: 70%;
-    max-height: auto;
-  } 
-}
-
-@media (min-width:768px){
-  .landing-img{
-    max-width: 70%;
-    max-height: auto;
-  } 
-}
-
-
-@media (min-width:1200px){
-  .landing-img{
-    max-width: 70%;
-    max-height: auto;
-  } 
-}
+  max-width: 100%;
+  max-height: auto;
+} 
 
 
 .brow{
-  padding-top: 3rem;
-  width: 30rem;
+  padding: 20px;
+  width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-self: center;
 }
-
-@media (max-width: 600px) {
-  .brow{
-    flex-direction: column;
-    width: 10rem;
-  }
-}
-
-@media (max-width: 600px){
-  .button{
-    background-color: black;
-    color: #d72036 !important;
-    border-radius: 5px;
-    padding: 0.5rem;
-    font-weight: 700;
-    font-size: 16px;
-    margin-bottom: 12px;
-  } 
-}
-
 @media (max-width:768px){
   .button{
     background-color: black;
-    color: #d72036 !important;
+    color: #d72036;
     border-radius: 5px;
     padding: 0.5rem;
     font-weight: 700;
@@ -124,18 +74,17 @@
 @media (max-width:1199px){
   .button{
     background-color: black;
-    color: #d72036 !important;
+    color: #d72036;
     border-radius: 5px;
     padding: 0.5rem;
     font-weight: 800;
     font-size: 20px;
   } 
 }
-
 @media (min-width:1200px){
   .button{
     background-color: black;
-    color: #d72036 !important;
+    color: #d72036;
     border-radius: 5px;
     padding: 0.5rem;
     font-weight: 900;

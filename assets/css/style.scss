@@ -5,8 +5,31 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+  
+.landing-img{
+  max-width: 30%;
+  text-align: center;
+}
+
+@media (max-width:580px){
+  .landing-img{
+    max-width: 70%;
+    max-height: auto;
+  } 
+}
 
 @media (max-width:767px){
+  .landing-img{
+    max-width: 30%;
+    max-height: auto;
+  } 
+}
+
+@media (min-width:768px){
+  .landing-img{
+    max-width: 30%;
+    max-height: auto;
+  } 
   .landing-box{
     display: flex;
     flex-direction: column;
@@ -24,10 +47,38 @@
     align-self: center;
     padding-bottom: 60px;
   }
+
 }
 
 
 @media (min-width:1200px){
+  .landing-img{
+    max-width: 30%;
+    max-height: auto;
+  } 
+}
+
+.landing-box{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-self: center;
+  padding-bottom: 5rem;
+  justify-content: center;
+}
+
+@media (max-width:767px){
+  .landing-box{
+    margin-top: 5%;
+    width: 100%;
+  } 
+}
+
+@media (min-width:768px){
+  .landing-box{
+    margin-top: 5%;
+    width: 100%;
+  } 
   .landing-box{
     display: flex;
     flex-direction: column;
@@ -71,6 +122,28 @@
   } 
 }
 
+@media (max-width: 480px) {
+  .brow{
+    flex-direction: column;
+    width: 10rem;
+  }
+}
+
+.button{
+  background-color: black;
+  color: #d72036 !important;
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+@media (max-width: 480px) {
+  .button{
+    font-size: 1rem;
+    margin-top: 10px;   
+  }
+}
 @media (max-width:1199px){
   .button{
     background-color: black;
